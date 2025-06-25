@@ -1,0 +1,52 @@
+# Build
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.bak
+*.log
+*.ncb
+*.aps
+*.ilk
+*.pdb
+*.sdf
+*.opensdf
+*.tlog
+*.vspscc
+*.vssscc
+.vs/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+ehthumbs.db
+desktop.ini
+
+# Pacotes e dependências
+packages/
+*.nupkg
+*.snupkg
+
+# Arquivos gerados
+*.exe
+*.dll
+*.obj
+*.class
+*.tmp
+
+# Outros
+*.env
+*.zip
+*.7z
+*.tar
+*.rar
+*.gz
